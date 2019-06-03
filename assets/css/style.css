@@ -1,10 +1,6 @@
 /* ==============================================================
 
-Theme Name	: Akroot HTML
-Theme URI	: TexTheme
-Author		: TexTheme
-Author URI	: https://themeforest.net/user/textheme
-Description	: Responsive Portfolio Template
+Theme Name	: Initiable HTML
 Version		: 1.0.0
 
 =================================================================
@@ -166,7 +162,7 @@ html,body{
 	height: 100%;
 }
 body{
-	background: #0d0f16;
+	background: black;
 }
 
 p {
@@ -316,7 +312,7 @@ input:focus,textarea:focus,form-control:focus{
     display: inline-block;
 }
 .btn-1:hover{
-    color: #0d0f16;
+    color: black;
     background: #d0bb79;
     border: 2px solid #d0bb79;
 }
@@ -324,17 +320,17 @@ input:focus,textarea:focus,form-control:focus{
 .btn-2{
 	font-family: 'Quicksand-Bold';
     font-size: 17px;
-    color: #0d0f16;
+    color: black;
     background: transparent;
-    border: 2px solid #0d0f16;
+    border: 2px solid black;
     border-radius: 3px;
     padding: 20px 61px;
     line-height: 40px;
 }
 .btn-2:hover{
     color: #ffffff;
-    background: #0d0f16;
-    border: 2px solid #0d0f16;
+    background: black;
+    border: 2px solid black;
 }
 
 /* 2.3.3 Button 3 */
@@ -358,7 +354,7 @@ input:focus,textarea:focus,form-control:focus{
 .btn-4,.btn-4:focus{
 	font-family: 'Quicksand-Bold';
     font-size: 16px;
-    color: #0d0f16;
+    color: black;
     background: #d0bb79;
     border: 2px solid #d0bb79;
     border-radius: 3px;
@@ -367,7 +363,7 @@ input:focus,textarea:focus,form-control:focus{
     display: inline-block;
 }
 .btn-4:hover{
-    color: #0d0f16;
+    color: black;
     background: #d3b05e;
     border: 2px solid #d3b05e;
 }
@@ -376,14 +372,14 @@ input:focus,textarea:focus,form-control:focus{
 	font-family: 'Quicksand-Bold';
     font-size: 14px;
     color: #d0bb79;
-    background: #0d0f16;
-    border: 2px solid #0d0f16;
+    background: black;
+    border: 2px solid black;
     border-radius: 3px;
     padding: 14px 60px;
     line-height: 40px;
 }
 .btn-5:hover{
-    color: #0d0f16;
+    color: black;
     background: #d0bb79;
     border: 2px solid #d0bb79;
 }
@@ -391,7 +387,7 @@ input:focus,textarea:focus,form-control:focus{
 .btn-6,.btn-6:focus{
 	font-family: 'Quicksand-Bold';
     font-size: 16px;
-    color: #0d0f16;
+    color: black;
     background: #d0bb79;
     border: 2px solid #d0bb79;
     border-radius: 3px;
@@ -399,7 +395,7 @@ input:focus,textarea:focus,form-control:focus{
     line-height: 40px;
 }
 .btn-6:hover{
-    color: #0d0f16;
+    color: black;
     background: #ffffff;
     border: 2px solid #ffffff;
 }
@@ -597,10 +593,10 @@ input:focus,textarea:focus,form-control:focus{
  */
 /* 2.6.1 */
 .bg-1{
-	background: #12141c !important;
+	background: #201324 !important;
 }
 .bg-2{
-	background: #0d0f16 !important;
+	background: black !important;
 }
 
 /**
@@ -619,7 +615,7 @@ input:focus,textarea:focus,form-control:focus{
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background: #0d0f16;
+	background: black;
 	z-index: 99999999;
 }
 
@@ -961,7 +957,7 @@ input:focus,textarea:focus,form-control:focus{
  * 3.2 Sticky Menu
  */
 #section-navbar1.sticky-menu, #section-navbar2.sticky-menu{
-	background: #0d0f16;
+	background: black;
 	-webkit-transition:all 0.3s ease;
     transition:all 0.3s ease;
 }
@@ -992,7 +988,7 @@ input:focus,textarea:focus,form-control:focus{
     padding-top: 120px;
     height: 100vh;
     z-index: 9999;
-    background: #0d0f16;
+    background: black;
     color: #fff;
     transition: all 0.4s;
 }
@@ -1147,7 +1143,7 @@ a[aria-expanded="true"] {
  * 3.6 Search
  */
 #section-search {
-    background: #0d0f16;
+    background: black;
     width: 100%;
     height: 540px;
     display: inline-block;
@@ -1387,7 +1383,7 @@ a[aria-expanded="true"] {
 
 #section-navbar2 .wrap-dropdown {
     padding: 20px 15px 20px 30px;
-    background: #0d0f16;
+    background: black;
     list-style: none;
 }
 
@@ -1673,7 +1669,7 @@ a.scroll-down:before {
  *===========================*/
 #section-aboutus1{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-aboutus1 h6{
 	font-family: 'Quicksand-Bold';
@@ -1730,7 +1726,7 @@ a.scroll-down:before {
  *============================*/
 #section-miscellaneous1{
 	padding: 120px 0;
-	background: #12141c;
+	background: #201324;
 }
 #section-miscellaneous1 .item{
 text-align: center;
@@ -1765,7 +1761,7 @@ text-align: center;
  *=============================*/
 #section-recentworks1{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-recentworks1 .our-portfolio .item{
 	text-align: center;
@@ -1845,7 +1841,7 @@ text-align: center;
 	font-family: 'Quicksand-Regular';
 	font-size: 26px;
 	letter-spacing: 0.2px;
-	color: #0d0f16;
+	color: black;
 }
 #section-cta1 h2 span{
 	font-family: 'Quicksand-Bold';
@@ -1859,7 +1855,7 @@ text-align: center;
  *====================================*/
 #section-testimonial1{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-testimonial1 .title1 {
     margin-bottom: 63px;
@@ -1936,7 +1932,7 @@ text-align: center;
  *====================================*/
 #section-contactform1{
 	padding: 120px 0;
-	background: #12141c;
+	background: #201324;
 }
 #section-contactform1 .contactform1{
 	max-width: 795px;
@@ -1990,7 +1986,7 @@ text-align: center;
 	font-family: 'Quicksand-Bold';
     font-size: 16px;
     background: #d0bb79;
-    color: #0d0f16;
+    color: black;
     border: none;
     padding: 18px 107px;
     border-radius: 3px;
@@ -2000,7 +1996,7 @@ text-align: center;
 }
 #section-contactform1 .contactform1 button:hover{
     background: #d3b05e;
-    color: #0d0f16;
+    color: black;
 }
 
 /*============================
@@ -2008,7 +2004,7 @@ text-align: center;
  *===========================*/
 #section-aboutus2{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-aboutus2 h6{
 	font-family: 'Quicksand-Bold';
@@ -2104,7 +2100,7 @@ text-align: center;
  *==============================*/
 #section-ourportfolio1 {
     padding: 120px 0;
-    background: #12141c;
+    background: #201324;
     
 }
 
@@ -2224,12 +2220,12 @@ text-align: center;
  *==============================*/
 #section-vision{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 	position: relative;
 }
 #section-vision .item {
     text-align: center;
-    background: #12141c;
+    background: #201324;
     display: inline-block;
     width: 100%;
     max-width: 371px;
@@ -2305,7 +2301,7 @@ text-align: center;
  *===========================*/
 #section-clients1{
 	padding: 120px 0;
-    background:#0d0f16;
+    background:black;
 }
 #section-clients1 .item {
 	text-align: center;
@@ -2331,12 +2327,12 @@ text-align: center;
  *=============================*/
 #section-testimonial2{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 
 #section-testimonial2 .item{
 	padding: 60px 50px 80px;
-	background: #12141c;
+	background: #201324;
 	
 }
 
@@ -2401,7 +2397,7 @@ text-align: center;
  *=============================*/
 #section-latestblog1{
 	padding: 120px 0;
-	background: #12141c;
+	background: #201324;
 }
 #section-latestblog1 .item{
 	text-align: center;
@@ -2429,8 +2425,8 @@ text-align: center;
     -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
     -o-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
     transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
-    -webkit-box-shadow: inset 0px -300px 60px -110px #12141c;
-    box-shadow: inset 0px -300px 60px -110px #12141c;
+    -webkit-box-shadow: inset 0px -300px 60px -110px #201324;
+    box-shadow: inset 0px -300px 60px -110px #201324;
 }
 #section-latestblog1 .item .content span{
 	border-top: 3px solid #d0bb79;
@@ -2497,7 +2493,7 @@ text-align: center;
  *===============================*/
 #section-ourportfolio2{
 	padding: 120px 0;
-	background: #12141c;
+	background: #201324;
 }
 #section-ourportfolio2 .filter {
     margin-bottom: 52px;
@@ -2806,7 +2802,7 @@ text-align: center;
  *===========================*/
 #section-allstarted{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-allstarted h1{
 	font-family: 'Quicksand-Regular';
@@ -2830,7 +2826,7 @@ text-align: center;
 }
 #section-allstarted .strategic-right .item {
     text-align: center;
-    background: #12141c;
+    background: #201324;
     display: inline-block;
     width: 100%;
     max-width: 371px;
@@ -2863,7 +2859,7 @@ text-align: center;
  *============================*/
 #section-ourteam1{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 
 #section-ourteam1 .item{
@@ -2891,8 +2887,8 @@ text-align: center;
     -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
     -o-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
     transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
-    -webkit-box-shadow: inset 0px -340px 60px -120px #12141c;
-    box-shadow: inset 0px -340px 60px -120px #12141c;
+    -webkit-box-shadow: inset 0px -340px 60px -120px #201324;
+    box-shadow: inset 0px -340px 60px -120px #201324;
 }
 #section-ourteam1 .item .content span{
 	border-top: 3px solid #d0bb79;
@@ -2951,7 +2947,7 @@ text-align: center;
  *===========================*/
 #section-cta3{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-cta3 .title1 {
     margin-bottom: 62px;
@@ -2998,7 +2994,7 @@ text-align: center;
  *===========================*/
 #section-services1{
 	padding: 105px 0 54px;
-	background: #0d0f16;
+	background: black;
 }
 #section-services1 .item{
 	text-align: center;
@@ -3047,7 +3043,7 @@ text-align: center;
 #section-services2,
 .section-services2{
 	padding: 120px 0;
-	background: #12141c;
+	background: #201324;
 }
 #section-services2 .left h1,
 .section-services2 .left h1{
@@ -3126,14 +3122,14 @@ text-align: center;
 #section-pricing1 .item{
 	padding: 56px 56px 60px;
 	text-align: center;
-	background: #12141c;
+	background: #201324;
 	position: relative;
     overflow: hidden;
 	-webkit-transform:all 0.2s ease;
 	transform:all 0.2s ease;
 }
 #section-pricing1 .item:hover{
-	background: #0d0f16;
+	background: black;
 	-webkit-transform:all 0.2s ease;
 	transform:all 0.2s ease;
 }
@@ -3186,14 +3182,14 @@ text-align: center;
 }
 #section-pricing1 .item .btn-buy a:hover{
     background: #d0bb79;
-    color: #0d0f16;
+    color: black;
     -webkit-transform:all 0.2s ease;
 	transform:all 0.2s ease;
 }
 #section-pricing1 .item .ribbon{
 	font-family: 'Quicksand-Bold';
     font-size: 12px;
-    color: #0d0f16;
+    color: black;
     background: #08e5a1;
     position: absolute;
     padding: 5px 50px;
@@ -3208,7 +3204,7 @@ text-align: center;
  *=============================*/
 #section-subscribe1{
 	padding: 120px 0;
-	background: #12141c;
+	background: #201324;
 }
 #section-subscribe1 .content{
 	text-align: center;
@@ -3248,7 +3244,7 @@ text-align: center;
     font-size: 16px;
     background: #d0bb79;
     border: 2px solid #d0bb79;
-    color: #0d0f16;
+    color: black;
     border-radius: 3px;
     padding: 13px 15px;
     width: 100%;
@@ -3273,7 +3269,7 @@ text-align: center;
  *===============================*/
 #section-ourportfolio3{
 	padding: 120px 0;
-	background: #12141c;
+	background: #201324;
 }
 #section-ourportfolio3 .filter {
     margin-bottom: 44px;
@@ -3425,7 +3421,7 @@ text-align: center;
  *====================================*/
 #section-portfoliodetails1{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-portfoliodetails1 .list-thumbnail .item {
     margin-bottom: 30px;
@@ -3563,7 +3559,7 @@ text-align: center;
  *===========================*/
 #section-news1{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-news1 .item{
 	margin-bottom: 50px;
@@ -3657,7 +3653,7 @@ text-align: center;
  *===========================*/
 #section-news2{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 #section-news2 .item{
 	margin-bottom: 70px;
@@ -3856,7 +3852,7 @@ text-align: center;
 
 #section-newsdetails1{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 
 #section-newsdetails1 .contents img.main-image{
@@ -4102,7 +4098,7 @@ text-align: center;
 	font-family: 'Quicksand-Bold';
     font-size: 16px;
     background: #d0bb79;
-    color: #0d0f16;
+    color: black;
     border: none;
     padding: 18px 15px;
     width: 100%;
@@ -4114,7 +4110,7 @@ text-align: center;
 }
 #section-newsdetails1 .contents .leave-comment button:hover{
     background: #ffffff;
-    color: #0d0f16;
+    color: black;
 }
 
 /*============================
@@ -4122,7 +4118,7 @@ text-align: center;
  *===========================*/
 #section-contact{
 	padding: 120px 0;
-	background: #0d0f16;
+	background: black;
 }
 
 #section-contact h1{
@@ -4189,7 +4185,7 @@ text-align: center;
 	font-family: 'Quicksand-Bold';
     font-size: 16px;
     background: #d0bb79;
-    color: #0d0f16;
+    color: black;
     border: none;
     padding: 18px 15px;
     width: 100%;
@@ -4201,13 +4197,13 @@ text-align: center;
 }
 #section-contact .contact-form button:hover{
     background: #d3b05e;
-    color: #0d0f16;
+    color: black;
 }
 
 /* Checkbox Not Robot */ 
 #section-contact .contact-form .checkbox{
-	background: #12141c;
-    border: 1px solid #12141c;
+	background: #201324;
+    border: 1px solid #201324;
     padding: 7px 25px 7px 31px;
     width: 270px;
 }
@@ -4327,7 +4323,7 @@ text-align: center;
     text-align: center;
 }
 #section-map .description{
-	background: #12141c;
+	background: #201324;
     padding: 36px 52px;
     width: 360px;
     display: inline-block;
@@ -4342,7 +4338,7 @@ text-align: center;
     top: 60px;
     left: -13px;
     font-size: 40px;
-    color: #12141c;
+    color: #201324;
 }
 
 #section-map .description h5{
@@ -4403,7 +4399,7 @@ text-align: center;
 #section-pagenotfound .content a.btn-back{
 	font-family: 'Quicksand-Bold';
     font-size: 14px;
-    color: #0d0f16;
+    color: black;
     background: #d0bb79;
     border: 2px solid #d0bb79;
     border-radius: 3px;
@@ -4513,7 +4509,7 @@ text-align: center;
     max-width: 369px;
     padding: 14px 30px;
     border: 2px solid #1d212d !important;
-    background: #12141c;
+    background: #201324;
     border-radius: 2px;
     margin-right: 25px;
 }
@@ -4522,7 +4518,7 @@ text-align: center;
     font-size: 16px;
     background: #d0bb79;
     border: 2px solid #d0bb79;
-    color: #0d0f16;
+    color: black;
     border-radius: 3px;
     padding: 13px 15px;
     width: 100%;
@@ -4749,7 +4745,7 @@ text-align: center;
  * 4.33.3 SECTION 3
  */
 #section-homepage5 #section-3{
-	background: #12141c;
+	background: #201324;
 }
 #section-homepage5 #section-3 .left ul{
 	padding: 0;
@@ -4813,7 +4809,7 @@ text-align: center;
  * 4.33.4 SECTION 4
  */
 #section-homepage5 #section-4{
-	background: #12141c;
+	background: #201324;
 }
 #section-homepage5 #section-4 .item .img-container {
     position: relative;
@@ -5076,7 +5072,7 @@ text-align: center;
 	font-family: 'Quicksand-Bold';
     font-size: 16px;
     background: #d0bb79;
-    color: #0d0f16;
+    color: black;
     border: none;
     padding: 18px 15px;
     width: 100%;
@@ -5088,13 +5084,13 @@ text-align: center;
 }
 #section-homepage5 #section-6 .contact-form button:hover{
     background: #ffffff;
-    color: #0d0f16;
+    color: black;
 }
 
 /* Checkbox Not Robot */ 
 #section-homepage5 #section-6 .contact-form .checkbox{
-	background: #12141c;
-    border: 1px solid #12141c;
+	background: #201324;
+    border: 1px solid #201324;
     padding: 7px 25px 7px 31px;
     width: 270px;
 }
@@ -5507,8 +5503,8 @@ text-align: center;
 @media only screen and ( min-width: 992px ) and ( max-width: 1199px ){
 	#section-latestblog1 .item .content {
 	    padding: 20px 30px 15px;
-	    -webkit-box-shadow: inset 0px -270px 125px -105px #12141c;
-	    box-shadow: inset 0px -270px 125px -105px #12141c;
+	    -webkit-box-shadow: inset 0px -270px 125px -105px #201324;
+	    box-shadow: inset 0px -270px 125px -105px #201324;
 	}
 	#section-latestblog1 .item .content h3 {
 	    line-height: 24px;
@@ -5518,8 +5514,8 @@ text-align: center;
 	}
 	#section-ourteam1 .item .content {
 	    padding: 45px 30px 15px;
-	    -webkit-box-shadow: inset 0px -269px 85px -70px #12141c;
-	    box-shadow: inset 0px -269px 85px -70px #12141c;
+	    -webkit-box-shadow: inset 0px -269px 85px -70px #201324;
+	    box-shadow: inset 0px -269px 85px -70px #201324;
 	}
 	#section-ourteam1 .item a:hover .content{
 		padding: 100px 30px;
@@ -5604,7 +5600,7 @@ text-align: center;
 	}
 	/** Section Navbar 2 Responsive **/
 	#section-navbar2.bg-navbar{
-		background: #0d0f16;
+		background: black;
 	}
 	#section-navbar2 .navbar-expand-lg .navbar-nav .nav-link.search-btn{
 		display: none;
@@ -5763,7 +5759,7 @@ text-align: center;
 	    right: 0;
 	    margin: 0 auto;
 	    font-size: 40px;
-	    color: #12141c;
+	    color: #201324;
 	    text-align: center;
 	}
 	#section-contact .contact-details {
@@ -6643,8 +6639,8 @@ text-align: center;
 	}
 	#section-latestblog1 .item .content {
 	    padding: 40px 15px 15px;
-	    -webkit-box-shadow: inset 0px -310px 105px -140px #12141c;
-	    box-shadow: inset 0px -310px 105px -140px #12141c;
+	    -webkit-box-shadow: inset 0px -310px 105px -140px #201324;
+	    box-shadow: inset 0px -310px 105px -140px #201324;
 	}
 	#section-latestblog1 .item .content h3 {
 	    line-height: 25px;

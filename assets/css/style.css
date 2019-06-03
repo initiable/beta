@@ -6678,3 +6678,10 @@ text-align: center;
 
 	}
 }
+
+/* Custom CSS */
+
+div.tp-bgimg {
+	opacity: 0.5;
+	background-color: black;
+}

@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: splash
+layout: home
 header:
   overlay_filter: 0.6
 excerpt: This is Initiable

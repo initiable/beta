@@ -1,8 +1,9 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: home
+layout: posts
 header:
-  overlay_filter: 0.6
+  overlay_image: /assets/images/pages/about.jpg
+  overlay_filter: 0.8
 excerpt: This is Initiable
 ---

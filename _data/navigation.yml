@@ -4,11 +4,13 @@ main:
     url: /
   - title: "Portfolio"
     url: /portfolio
+  - title: "Services"
+    url: /services
   - title: "Blog"
     url: /blog/
   - title: "Testimonials"
-    url: /testimonials/
+    url: /testimonials
   - title: "About"
-    url: /about/
+    url: /about
   - title: "Contact"
-    url: /contact/
+    url: /contact

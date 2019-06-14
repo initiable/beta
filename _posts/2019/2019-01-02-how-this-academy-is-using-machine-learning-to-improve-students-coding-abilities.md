@@ -1,7 +1,7 @@
 ---
 title:  "How This Academy Is Using Machine Learning To Improve Students' Coding Abilities"
 header:
-  teaser: "/assets/images/"
+  teaser: "/assets/images/pages/about.jpg"
 categories: 
   - Education
   - Teaching
